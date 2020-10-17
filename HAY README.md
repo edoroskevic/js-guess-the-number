@@ -1,0 +1,2 @@
+# js-guess-the-number
+a besic 'guess the number' app using skeletoncss and plain javascript. the aim of this project is to demonstrate basic DOM manipulation, function creation and event handling. the user is presented with an input field where s/he has to enter a number between min and max. The user is given an arbitrary number of lives. if user does guess the number, the app displays appropriate message notifying the user. otherwise, the user is notified what is the correct answer, and the user is offered to restart the game.
